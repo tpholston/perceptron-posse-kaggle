@@ -43,3 +43,8 @@
     ```
     bash get_kaggle_data.sh tylerholston 5462921d606a42072ea9b3d5006f7bea
     ```
+    
+6. Get Data (updated)
+    
+    With the computational complexity of filtering out data points of cars going over a threshold of mph we decided to put the training dataset on google drive. This is the link:
+    https://drive.google.com/file/d/1Il-Yny9w0PmSMmvqCWM8fqAxM8bBQe4P/view?usp=sharing
