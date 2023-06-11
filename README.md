@@ -51,7 +51,7 @@
     
 7. Run model
     
-    run rf_calltype_A.ipynb
-    run rf_calltype_B.ipynb
-    run rf_calltype_C.ipynb
-    concate predictions with concatenate.ipynb
+    1. run rf_calltype_A.ipynb
+    2. run rf_calltype_B.ipynb
+    3. run rf_calltype_C.ipynb
+    4. concate predictions with concatenate.ipynb
