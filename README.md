@@ -55,3 +55,13 @@
     2. run rf_calltype_B.ipynb
     3. run rf_calltype_C.ipynb
     4. concate predictions with concatenate.ipynb
+
+8. Pre-trained models
+
+    If you want to load in a pre-trained model (they are rather large files even compressed but knock yourself out) you can access the joblib dumps here:
+    
+    rf calltype A: https://drive.google.com/file/d/1c4BVu6p-TFTK3WAR7KHhw-XVa8A6AdbT/view?usp=sharing
+    
+    rf calltype B: https://drive.google.com/file/d/1-dnjLbnufSWMwXbPjlFgU2lcxqxGmUt3/view?usp=sharing
+    
+    rf calltype C: https://drive.google.com/file/d/1wvXh3a9RCaNCES32bugV5j0ZoeqIJ6ij/view?usp=sharing
